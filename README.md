@@ -18,8 +18,4 @@ Skills: DJANGO / PANDAS / JAVA / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ignatiusratemo26&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ignatiusratemo26/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/ignatiusratemo26)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ignatiusratemo26)  
