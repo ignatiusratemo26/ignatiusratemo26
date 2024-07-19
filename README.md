@@ -6,9 +6,10 @@ I'm Ignatius Ratemo, and I develop backend systems. I enjoy learning data analys
 
 Skills: DATA ANALYSIS WITH PYTHON / DJANGO / PANDAS / JAVA / HTML / CSS
 
-- 🌱 I’m currently learning Machine learning 
+- 🌱 I’m currently learning Data Science
 - 💬 Ask me about Backend development 
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ignatiusratemo26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ignatius-ratemo-770367240/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ignatiusratemo5)  
 
