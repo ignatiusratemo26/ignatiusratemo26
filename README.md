@@ -19,4 +19,7 @@ Skills: DATA ANALYSIS WITH PYTHON / DJANGO / PANDAS / JAVA / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ignatiusratemo26&show_icons=true&theme=tokyonight&count_private=true)  
 
+linet
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=linetgitonga&show_icons=true&theme=tokyonight&count_private=true) 
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ignatiusratemo26)  
