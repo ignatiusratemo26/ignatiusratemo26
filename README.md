@@ -2,11 +2,17 @@
 #### Developer and Data Scientist
 ![Developer and Data Scientist](https://github.com/ignatiusratemo26/ignatiusratemo26/blob/main/banner.PNG)
 
-I'm Ignatius Ratemo, and I develop backend systems. I enjoy learning data analysis techniques and learning languages and frameworks such as Django and Jupyter Notebook, as well as machine learning. I indulge in developing systems that solve real-world problems and conducting exploratory data analysis. You can check out my LinkedIn profile at www.linkedin.com/in/ignatius-ratemo-770367240.
+I'm Ignatius Ratemo, and I develop backend systems. I am a DevOps enthusiast too. I indulge in developing systems that solve real-world problems and conducting exploratory data analysis. You can check out my LinkedIn profile at www.linkedin.com/in/siko-ignatius-8a3a8934b/.
 
-Skills: DATA ANALYSIS WITH PYTHON / DJANGO / PANDAS / JAVA / HTML / CSS
+Skills: 
+- DevOps
+- Backend Development
+- Frontend Development
 
-- 🌱 I’m currently learning Data Science
+Languages:  Python, Golang, TypeScript, JavaScript
+Frameworks: Django | FastAPI | NextJS | React
+
+- 🌱 I’m currently learning Cloud Computing
 - 💬 Ask me about Backend development 
 - 😄 Pronouns: He/Him
 
