@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ignatius Ratemo
 #### Developer and Data Scientist
-![Developer and Data Scientist](https://github.com/ignatiusratemo26/ignatiusratemo26/blob/main/banner.PNG)
+![Developer and Data Scientist](https://github.com/ignatiusratemo26/ignatiusratemo26/blob/main/ignatius_banner.png)
 
 I'm Ignatius Ratemo, and I develop backend systems. I am a DevOps enthusiast too. I indulge in developing systems that solve real-world problems and conducting exploratory data analysis. You can check out my LinkedIn profile at www.linkedin.com/in/siko-ignatius-8a3a8934b/.
 
