@@ -23,6 +23,6 @@ Frameworks: Django | FastAPI | NextJS | React
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignatiusratemo26&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ignatiusratemo26&show_icons=true&theme=tokyonight&count_private=true)  
+// ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ignatiusratemo26&show_icons=true&theme=tokyonight&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ignatiusratemo26)  
